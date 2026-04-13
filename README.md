@@ -1,2 +1,2 @@
 # Mapty
-made this mapty from jonas course
+Location-based workout tracking app using Leaflet.js and geolocation
